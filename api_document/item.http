@@ -2,7 +2,7 @@
 //@baseUrl = http://localhost:8001
 
 ### register item
-POST {{baseUrl}}/campaign/register HTTP/1.1
+POST {{baseUrl}}/item/register HTTP/1.1
 content-type : application/json
 
 {
