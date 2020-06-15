@@ -235,7 +235,6 @@
 
                i = i + 1;
             }
-            $("#ing_campaign").append('<div class="clearfix" style="clear: left"></div>');
          }
       });
 
@@ -265,7 +264,6 @@
                   $("#camname_"+response2.data.campaigns[i].id).append( response2.data.campaigns[i].name);
                   document.querySelector("#ec_"+response2.data.campaigns[i].id).appendChild(img2);
                }
-               $("#end_campaign").append('<div class="clearfix" style="clear: left"></div>');
          });
 
          function linkPage (id){
