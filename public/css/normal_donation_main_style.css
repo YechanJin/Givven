@@ -161,7 +161,9 @@
   padding: 20px;
   text-align: left;
   border-radius: 20px;
+  width: 100%;
 }
+
 #first{
   padding: 30px;
   padding-top: 140px;
