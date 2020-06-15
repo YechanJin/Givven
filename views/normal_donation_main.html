@@ -48,7 +48,6 @@
       <div id='allCampaigns'>
          <a href='#'><b>진행중인 캠페인</b></a>
          <div id = "ing_campaign" class="card_list">
-         <div class="clearfix" style="clear: left"></div>
          </div>
       </div>
 
@@ -236,8 +235,8 @@
 
                i = i + 1;
             }
+            $("#ing_campaign").append('<div class="clearfix" style="clear: left"></div>');
          }
-         $("#ing_campaign").append('<div class="clearfix" style="clear: left"></div>');
       });
 
       $.ajax({
