@@ -164,6 +164,14 @@
   background-repeat: no-repeat;
   background-size: 100% 450px;
 }
+#first{
+  padding: 30px;
+  padding-top: 140px;
+  width: 100%;
+  height: 450px;
+  background-repeat: no-repeat;
+  background-size: 100% 450px;
+}
 #second{
   padding: 30px;
   padding-top: 140px;
