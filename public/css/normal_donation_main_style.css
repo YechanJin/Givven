@@ -131,7 +131,7 @@
  }
 
 
- #carouselIndicators {
+ #img_slide {
     height: 500px;
     margin-left: 20px;
     margin-right: 20px;
@@ -156,12 +156,12 @@
    text-align: left;
 
  }
- .carousel-item {
+ /*.carousel-item {
   background-color: white;
   padding: 20px;
   text-align: left;
   border-radius: 20px;
-}
+}*/
 
 #first{
   padding: 30px;
