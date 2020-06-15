@@ -161,7 +161,6 @@
   padding: 20px;
   text-align: left;
   border-radius: 20px;
-  width: auto;
 }
 
 #first{
@@ -219,6 +218,7 @@
 }
 
 #allCampaigns {
+    margin-top: 20px;
     background-color: white;
     padding: 20px;
     text-align: left;
